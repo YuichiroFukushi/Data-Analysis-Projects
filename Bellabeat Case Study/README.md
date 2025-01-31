@@ -446,10 +446,8 @@ ggplot(data = daily_activity, aes(x = TotalDistance, y = Calories)) +
 
 **Output:**
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/user-attachments/assets/68461da7-3706-4d83-aab4-f1be9c6ce22f" width="500" />
-  <img src="https://github.com/user-attachments/assets/d886fe7b-821b-4d5e-a2de-0984a8a4a7c2" width="500" />
-</div>
+<img width="558" alt="Total Steps vs Calories" src="https://github.com/user-attachments/assets/13943839-fe8c-4ec2-9263-b0cba81661a9" />
+<img width="558" alt="Total Distance vs  Calories" src="https://github.com/user-attachments/assets/b90311e5-e9a6-4da5-bd54-5d4aa1306c7a" />
 
 The scatterplot above shows a positive correlation between the number of steps taken, the total distance covered, and calories burned, indicating that **as both the number of steps and distance increase, the calories burned also increase.**
 
@@ -476,7 +474,7 @@ ggplot(daily_activity_filtered, aes(x = Distance, fill = ActiveDistance)) +
 
 **Output:**
 
-<img width="1000" alt="Distribution of Active Distance" src="https://github.com/user-attachments/assets/26d8a1a6-e4dc-48e6-8288-d0bac2cd2ad2" />
+<img width="654" alt="Distribution of Active Distance" src="https://github.com/user-attachments/assets/4ea26f3e-b8ff-4bf1-b3c9-49d49c287f2a" />
 
 The histogram above shows that **a greater number of users cover more distance under `LightActiveDistance`.**
 
@@ -504,7 +502,7 @@ ggplot(sleep_day, aes(x = TimeAwakeBeforeSleep)) +
 
 **Output:**
 
-<img width="1000" alt="TIme Spent Awake in Bed Before Falling Asleep" src="https://github.com/user-attachments/assets/323d5a7a-ff76-4f59-b445-a99c338b6978" />
+<img width="558" alt="Time Spent Awake in Bed Before Falling Asleep" src="https://github.com/user-attachments/assets/db11b8c9-c25a-4711-b9cf-ae3a361a2c5e" />
 
 The histogram above indicates that **most users spend at least 50 minutes in bed before falling asleep.**
 
