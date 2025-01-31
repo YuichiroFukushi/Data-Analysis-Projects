@@ -28,10 +28,3 @@ From cleaning and preprocessing data to advanced analysis and visualization, the
 This project and its contents are licensed under the [MIT License](LICENSE). You are free to use, adapt, or derive ideas from my work, provided you comply with the terms of the MIT License (including retaining the original copyright notice and license text).  
 
 *By contributing to this repository, you agree to license your additions under the same terms.*  
-
----
-
-## Connect with Me 📱  
-If you have any questions, suggestions, or collaboration opportunities, feel free to reach out!  
-- **GitHub**: [YuichiroFukushi](https://github.com/YuichiroFukushi)  
-- **LinkedIn**: [Yuichiro Fukushi](linkedin.com/in/yuichirofukushi)  
